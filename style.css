@@ -17,10 +17,6 @@ header h1{
 header h2{
     text-align: center;
 }
-.container{
-    width: 800px;
-    margin: 0 auto;
-}
 section article{
     transition: all 0.3s ease;
     background-color: white;
